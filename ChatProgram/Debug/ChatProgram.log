@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\IF\III sem 1\iNTEROP\Socket Programing\ChatProgram\ChatProgram\main.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\IF\III sem 1\iNTEROP\Socket Programing\ChatProgram\ChatProgram\main.cpp(124,24): warning C4018: '<': signed/unsigned mismatch
+  ChatProgram.vcxproj -> D:\IF\III sem 1\iNTEROP\Socket Programing\ChatProgram\Debug\ChatProgram.exe
